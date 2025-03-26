@@ -2,7 +2,7 @@ GitHub contributors:
 --------------------------------
 - (d)oekia
 - 0kph
-- 123monsite-regis
+- 123monsite-regisjkjkl
 - 1RV34
 - 202 ecommerce
 - 23b
